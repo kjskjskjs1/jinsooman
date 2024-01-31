@@ -1,0 +1,65 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+main{
+    width: 1200px;
+    height: 700px;
+}
+
+header{
+    width: 1200px;
+    height: 100px;
+    display: flex;
+}
+#logo{
+    width: 300px;
+    height: 100px;
+    background-color: aliceblue;
+}
+#menu{
+    width: 900px;
+    height: 100px;
+    background-color: aquamarine;
+}
+#imgslide{
+    width: 1200px;
+    height: 300px;
+    background-color: brown;
+}
+#content{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+}
+#notice{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+}
+#gall{
+    width: 400px;
+    height: 200px;
+    background-color: beige;
+}
+#banner{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(234, 234, 50);
+}
+footer{
+    display: flex;
+    width: 1200px;
+    height: 100px;
+}
+#flogo{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+#COPYRIGHT{
+    width: 800px;
+    height: 100px;
+    background-color:blue;
+}
