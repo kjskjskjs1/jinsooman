@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1000px;
+    height: 80px;
+    background: orange;
+}
+.con1{
+    width: 600px;
+    height: 600px;
+    background: skyblue;
+    float: left;
+}
+.con2{
+    width: 400px;
+    height:200px;
+    background: pink;
+    float: left;
+}
+.con3{
+    width: 400px;
+    height: 200px;
+    background: yellow;
+    float: left;
+}
+.con4{
+    width: 400px;
+    height: 200px;
+    background:green;
+    float: left;
+}
+footer{
+    width: 1000px;
+    height: 80px;
+    background: gray;
+    float: left;
+}
