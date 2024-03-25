@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+ }
+ #main{
+    width: 1200px;
+    height: auto;
+    
+ }
+ #header{
+    width: 1200px;
+    height: 100px;
+    background-color: aqua;
+ }
+ #content{
+    width: 1200px;
+    height: 500px;
+    display: flex;
+ }
+ #content1{
+    width: 200px;
+    height: 500px;
+    background-color: crimson;
+    
+ }
+ #content2{
+    width: 1000px; 
+    height: 500px;
+    background-color: blanchedalmond;
+}
+#footer{
+    width: 1200px;
+    height: 200px;
+    background-color: chartreuse;
+}
