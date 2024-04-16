@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wirap{
+    width: 100%;
+    display: flex;
+}
+#aside{
+    width: 200px;
+}
+#aside h1{
+    width: 200px;
+    height: 150px;
+    background-color: antiquewhite;
+}
+#aside nav{
+    width: 200px;
+    height: 700px;
+    background-color: black;
+}
+#aside div{
+    width: 200px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+main{
+    width: 80%;
+}
+#content{
+    position: relative;
+    width: 100%;
+    height:400px;
+    background-color: rgb(152, 176, 128);
+}
+#content #cube{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 300px;
+    text-align: center;
+    line-height: 100px;
+    background-color: aqua;
+}
+#content #cube1{
+    width: 100px;
+    height: 100px;
+
+}
+#content #cube2{
+    width: 100px;
+    height: 100px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#content #cube3{
+    width: 100px;
+    height: 100px;
+}
+
+#logo{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(191, 231, 195);
+}
+#banner{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(152, 176, 128);
+}
+footer{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+#footer1{
+    width: 80%;
+    height: 100px;
+    background-color: #333;
+}
+#footer2{
+    width: 20%;
+    height: 100px;
+    background-color: #555;
+}
+
+
+
+    
+
