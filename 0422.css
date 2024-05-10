@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+   width: 1000px;
+   height: 200px;
+   margin: 20px;
+}
+#header{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    border-radius: 20px;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+    color: aliceblue;
+    list-style: none;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+#nav{
+    width: 650px;
+    height: 100px;
+    float: left;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: solid;
+    align-items: center;
+    list-style: none;
+    
+}
+#nav1{
+    width: 100px;
+    color: white;  
+}
+
+#nav1 > span {
+    padding: 5px 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    font-weight: 200;
+}
+
+#nav2{
+    width: 100px;
+    color: white;
+}
+#nav2 > span{
+    padding: 5px 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    font-weight: 200;
+}
+#nav3{
+    width: 100px;
+    color: white;
+}
+#nav3 > span{
+    padding: 5px 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    font-weight: 200;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 42px;
+}

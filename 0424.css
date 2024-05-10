@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 80%;
+    height: 100px;
+    background: linear-gradient(45deg, lightblue,gray );
+    display: flex;
+    text-align: center;          
+}
+#ligo{
+    width: 90px;
+    padding: 20px;
+}
+h1{
+    display: flex;
+    font-size: 70px;
+}
+nav{
+    width: 1600px;
+    height: 100px;
+    display: flex;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    width: 200px;
+    height: 100px;
+    list-style: none;
+    font-weight: bold;
+}
+#input{
+    width: 200px;
+    height: 100px;
+}
